@@ -1,6 +1,6 @@
-# Weather App
+# Weather App - React Class Components
 
-A simple Weather App designed with React.js.
+A simple Weather App designed with React Class Components.
 
 OpenWeatherMap API is used for weather data.
  
