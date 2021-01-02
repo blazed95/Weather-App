@@ -25,7 +25,7 @@ body {
 
 .title-container {
   height: 90vh;
-  background: url("../../my-app/src/imgs/pixelart.jpg")  center no-repeat;
+  background: url("../../Weather-App/src/imgs/pixelart.jpg")  center no-repeat;
   background-size: cover;
   display: flex;
   align-items: flex-start;
