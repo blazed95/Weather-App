@@ -1,2 +1,2 @@
-# my-app
+# A simple Weather App
  
