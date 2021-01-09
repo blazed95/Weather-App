@@ -4,7 +4,7 @@ import Form from "./components/Form.js";
 import Titles from "./components/Titles.js";
 
 const API_KEY = "35ab2860a079e8667d9beb17af6fb576"
-//api.openweathermap.org/data/2.5/weather?q=London,uk
+
 
 class App extends React.Component {
   constructor(props) {
