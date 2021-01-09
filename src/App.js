@@ -4,7 +4,7 @@ import Form from "./components/Form.js";
 import Titles from "./components/Titles.js";
 import API_KEY from "./config.js";
 
-const API_KEY = process.env.APIKEY
+//or const API_KEY = process.env.APIKEY
 
 
 class App extends React.Component {
